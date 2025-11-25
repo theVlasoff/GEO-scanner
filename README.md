@@ -1,4 +1,4 @@
-# geolocation-steal
+# GEO-scanner
 Disclaimer: This is a small .html file, which requests geolocation and later on sends the information to my email through the specific service. Was never used to hurt anybody. I know that according to the law it forbiden to steal and personally use sensitive information. 
 
 The idea of the following code was to obtain the exact location of "MY" personal computer/phone.
